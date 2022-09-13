@@ -8,7 +8,7 @@ Currently the library supports the following option (field) types:
 * RGB color
 * RGBA color
 
-Comments in the configurationfiles are not yet supported.
+Comments in the configuration files are not yet supported.
 
 For an example configuration check out `example_config.conf`.
 
